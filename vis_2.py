@@ -111,3 +111,16 @@ for ordner in ordner_liste:
         visualize_file(dateipfad_im, dateipfad_gt, dateipfad_ziel)
     else:
         print("skip")
+
+
+""" Einzelne Datei visualisieren"""
+
+#CT_AbdomenAtlas_BDMAP_00000027
+# dateipfad_gt = "/Users/ricardabuttmann/Desktop/CVPR/SegFM3D/3D_val_gt_interactive_seg/CT/CT_AbdomenAtlas_BDMAP/CT_AbdomenAtlas_BDMAP_00000027.npz"
+# dateipfad_im = "/Users/ricardabuttmann/Desktop/CVPR/SegFM3D/3D_val_npz/CT/CT_AbdomenAtlas_BDMAP/CT_AbdomenAtlas_BDMAP_00000027.npz"
+                                                                       
+# dateipfad_ziel = "/Users/ricardabuttmann/Desktop/CVPR/Bilder/Variante/3D_val_Bilder/CT/CT_AbdomenAtlas_BDMAP_00000027.pdf"
+# visualize_file(dateipfad_im, dateipfad_gt, dateipfad_ziel)
+
+
+
